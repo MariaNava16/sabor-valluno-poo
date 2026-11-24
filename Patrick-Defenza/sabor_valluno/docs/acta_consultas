@@ -1,0 +1,11 @@
+# Acta de Consultas - Restaurante Sabor Valluno (Variante A)
+
+**Estudiante:** Patrick Quiroz Almaraz  
+**Variante:** A  
+
+| Fecha | Pregunta o tema consultado al docente | Respuesta / Aclaración del docente |
+| :--- | :--- | :--- |
+| 17/11/2026 | Aclaración general en aula sobre la Regla 9 (retraso en delivery). | El ingeniero indicó a toda la clase que se omita la implementación de la Regla 9 en el proyecto. |
+| 17/11/2026 | Aclaración general en aula sobre cómo manejar el pago en `Delivery` respecto a la clase padre `Pedido`. | Aclaró que el atributo `pago` se hereda desde `Pedido`, pero en `Delivery` se restringe para aceptar únicamente efectivo o QR (sin tarjeta). |
+
+**Nota:** No se realizaron consultas individuales adicionales al docente fuera de las aclaraciones generales dadas en clase.
